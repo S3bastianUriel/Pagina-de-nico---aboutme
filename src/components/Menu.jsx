@@ -9,11 +9,11 @@ const Menu = () => {
 					<a href="https://nicolassantivanez.netlify.app/" className="title">HOME</a>
 				</li>
 				<li>
-					<a href="/aboutme">ABOUT ME</a>
+					<a href="/">ABOUT ME</a>
 				</li>
-				{/* <li>
-					<a href="/projects">PROJECTS</a>
-				</li> */}
+				<li>
+					<a href="https://nicolassantivanez-projects.netlify.app/">PROJECTS</a>
+				</li>
 			</ul>
 		</div>
 	);

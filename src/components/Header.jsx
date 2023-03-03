@@ -53,8 +53,8 @@ function Header(props) {
                     <ul className="header__routes--list">
                     {/* <ul> */}
                         <a href="https://nicolassantivanez.netlify.app/"  >HOME</a>
-                        <a href="/aboutme" >ABOUT ME</a>
-                        {/* <a href="/projects" >PROJECTS</a> */}
+                        <a href="/" >ABOUT ME</a>
+                        <a href="https://nicolassantivanez-projects.netlify.app/" >PROJECTS</a>
                     </ul>
                 </div>
             </div>
